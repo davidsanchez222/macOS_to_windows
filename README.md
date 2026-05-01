@@ -18,9 +18,20 @@ reducing friction from personal macOS to work Windows 11
 
 
 # keymappings
-I use kanata. As of now, Powertoys' keyboard manager is limited.
+I use kanata and autokey. As of now, Powertoys' keyboard manager is limited.
+## Kanata
 - leftalt+backspace = shift+home then backspace (delete line)
-- etc
+- windows+backspace = delete word
+- capslock to esc tap and ctrl hold
+## AutoHotkey
+- macos commands so ex: alt-c sends ctrl-c
+## Raycast
+- unmap windows+L from locking screen (regedit)
+- windows+L = right half
+- leftalt = super(ctrl-alt-shift-win)
+- ctrl+alt+q = lock screen
+## misc
+- alt+shift+4 = snipping tool (ShareX)
 
 
 # core settings to change
